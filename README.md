@@ -1,6 +1,6 @@
-# DadiBaba Open Source
+# Bhatinbati Open Source
 
-Welcome to DadiBaba Open Source, let's build beautiful software together.
+Welcome to Bhatinbati Open Source, let's build beautiful software together.
 
 Join Us:
 
